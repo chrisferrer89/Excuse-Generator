@@ -1,5 +1,9 @@
-@import "bootstrap/dist/css/bootstrap.min.css";
-
-body{
-    background: white;
-}
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: white;
+  font-size: 40px;
+  margin-top: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  }
